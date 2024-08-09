@@ -1,5 +1,5 @@
 # ANALYSE DES VENTES DE GADGETS D'UNE BOUTIQUE
-![VENTE DE GADGETS](https://github.com/AnalystDose/RAPPORT-DE-PRET_BANCAIRE_EXCEL/assets/169387833/e6715b47-f011-4296-aa8a-bff29dd34f1f)
+![VENTE DE GADGETS](https://github.com/DaoudaBamisDiallo/ANALYSE-DES-VENTES-DE-GADGETS/blob/master/graphics_img/0_.jpeg)
 
 ## Description
 
