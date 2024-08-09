@@ -6,7 +6,7 @@
 Afin de surveiller et d'évaluer les activités de prêt et les performances de notre banque, nous devons créer un rapport complet sur les prêts bancaires. Ce rapport vise à fournir un aperçu des principaux paramètres liés aux prêts et de leurs changements au fil du temps. Le rapport nous aidera à collecter des données. prendre des décisions éclairées, suivre la santé de notre portefeuille de prêts et identifier les tendances qui peuvent éclairer nos stratégies de prêt.
 
 ## Source et aperçu des données🚀
-L'ensemble des données des prets bancaire à notre disposition est constitué de plus de 38k enregistrements, dont 25 colonnes.
+L'ensemble des données des ventes mansueles à notre  disposition est constitué de plus de 38k enregistrements, dont 25 colonnes.
 Ces données relèvent des différentes informations sur les demandeurs de prets ainsi que les différentes transactions.
 
 ## Exigences relatives aux indicateurs de performance clés (KPI)  ⚡
